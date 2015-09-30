@@ -8,4 +8,5 @@ int main()
 	printf("Hello World\n");
 	printf("Incheon University\n");
 	printf("Hwagok High School\n");
+	printf("Sinjeong Elementary School");
 }

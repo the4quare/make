@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 //Embedded System Engineering
+//Incheon University
 
 int main()
 {

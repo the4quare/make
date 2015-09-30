@@ -2,9 +2,10 @@
 
 int main()
 {
-	printf("Sinjeong Elementary School");
+//	printf("Sinjeong Elementary School");
 	func1();
 	func2();
 	printf("Hello World\n");
 	printf("Incheon University\n");
+	printf("Hwagok High School\n");
 }

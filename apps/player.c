@@ -4,4 +4,5 @@ int main()
 {
 	func1();
 	func2();
+	printf("Hello World\n");
 }
